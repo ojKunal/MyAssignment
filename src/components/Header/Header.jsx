@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
         return (
           <header className="flex gap-5 justify-between px-0.5 w-full text-lg whitespace-nowrap text-neutral-700 max-md:flex-wrap max-md:max-w-full">
-            <img loading="lazy" src={"/Assets/Component 40.png"} alt="Logo" className="shrink-0 my-auto max-w-full aspect-[5] w-[191px] cursor-pointer" />
+            <img loading="lazy" src={"/Assets/Component 40 (2).png"} alt="Logo" className="shrink-0 my-auto max-w-full aspect-[5] w-[191px] cursor-pointer" />
             <nav className="flex gap-5 justify-between items-center max-md:flex-wrap">
               <ul className="flex gap-5 justify-between self-stretch my-auto cursor-pointer">
                 <li>Home</li>
