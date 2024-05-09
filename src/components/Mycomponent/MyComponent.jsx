@@ -4,7 +4,6 @@ import Breadcrumbs from "../Breadcrumbs/Breadcrumbs";
 import StudyNav from "../StudyNav/StudyNav";
 import FlashcardContent from "../FlashcardContent/FlashcardContent";
 import Footer from "../Footer/Footer";
-import FlashcardNav from "../FlashcardNav/FlashcardNav";
 import FAQItem from "../FAQItem/FAQItem";
 
 function MyComponent() {
@@ -26,7 +25,6 @@ function MyComponent() {
         </div>
         <StudyNav />
         <FlashcardContent />
-        <FlashcardNav />
         <Footer />
         <div className="flex justify-start items-start">
           <h2 className="mt-40 text-5xl  text-[#06286E] font-bold tracking-wide bg-clip-text max-md:mt-10 max-md:max-w-full max-md:text-4xl ">
