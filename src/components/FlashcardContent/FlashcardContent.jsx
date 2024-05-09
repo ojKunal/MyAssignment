@@ -18,7 +18,7 @@ const FlashcardContent = () => {
   },]
   const Update = Equations.map((item) => (item.question))
   return (
-    <div className="flex flex-col bg-gradient-to-r from-blue-500 to-indigo-900 self-center px-9 pt-9 pb-20 mt-8 max-w-full rounded-[42.507px] w-[712px] max-md:px-5">
+    <div className="flex flex-col bg-gradient-to-r from-blue-500 to-indigo-900 self-center px-9 pt-9 pb-20 mt-8 max-w-full rounded-[42.517px] w-[712px] max-md:px-5">
       <div className="flex gap-5 justify-between max-md:flex-wrap max-md:max-w-full">
         {/* <img loading="lazy" src="src/components/FlashcardContent/Assets/Vector (15).png" alt=""  /> */}
         <MdLightbulbOutline
